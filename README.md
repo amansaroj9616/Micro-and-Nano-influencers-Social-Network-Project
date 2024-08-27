@@ -13,3 +13,4 @@ Campaign Parameters: Number of influencers needed, specific niches, and any othe
 Organized Data: A structured dataset containing influencers' usernames, follower counts, engagement rates, and other relevant metrics.
 Automated Reports: Detailed reports generated automatically, ready to be used for campaign planning.
 Scalability Analysis: Insights on the ability to scale up campaigns based on collected data.
+![Artboard-131](https://github.com/user-attachments/assets/98283d6d-561b-4b5c-86b8-8f7772c779e8)
